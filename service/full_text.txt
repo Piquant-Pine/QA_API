@@ -1,0 +1,230 @@
+*************************** 1. row ***************************
+                  id: 49195
+          id_product: 14034
+       question_body: Tenetur occaecati assumenda voluptatibus ab debitis odio.
+       question_date: 2018-08-13
+          asker_name: Tristin.OReilly
+         asker_email: Kelli_Weissnat@hotmail.com
+     report_question: 0
+question_helpfulness: 10
+           id_answer: 172766
+         id_question: 49195
+         answer_body: Id quisquam quo perspiciatis.
+         answer_date: 2018-09-06
+       answerer_name: Travon.Schiller
+      answerer_email: Karlee49@yahoo.com
+       report_answer: 0
+  answer_helpfulness: 6
+                  id: 51472
+           id_answer: 172766
+                 url: https://images.unsplash.com/photo-1470282312847-28b943046dc1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80
+*************************** 2. row ***************************
+                  id: 49195
+          id_product: 14034
+       question_body: Tenetur occaecati assumenda voluptatibus ab debitis odio.
+       question_date: 2018-08-13
+          asker_name: Tristin.OReilly
+         asker_email: Kelli_Weissnat@hotmail.com
+     report_question: 0
+question_helpfulness: 10
+           id_answer: 172768
+         id_question: 49195
+         answer_body: Exercitationem rerum aliquam amet est eum.
+         answer_date: 2019-04-03
+       answerer_name: Tressie9
+      answerer_email: Lempi.Johns1@hotmail.com
+       report_answer: 0
+  answer_helpfulness: 15
+                  id: 51473
+           id_answer: 172768
+                 url: https://images.unsplash.com/photo-1486025402772-bc179c8dfb0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+*************************** 3. row ***************************
+                  id: 49196
+          id_product: 14034
+       question_body: Dolorem ut sit enim est aperiam quos odio beatae.
+       question_date: 2019-05-02
+          asker_name: Brooke20
+         asker_email: Jeanie.Rice89@gmail.com
+     report_question: 0
+question_helpfulness: 2
+           id_answer: 172771
+         id_question: 49196
+         answer_body: Aliquam et et corporis vel reiciendis modi vel error.
+         answer_date: 2018-09-21
+       answerer_name: Elfrieda.Gleason
+      answerer_email: Elliot38@hotmail.com
+       report_answer: 0
+  answer_helpfulness: 8
+                  id: 51474
+           id_answer: 172771
+                 url: https://images.unsplash.com/photo-1459947727010-6267d2c1232f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+*************************** 4. row ***************************
+                  id: 49196
+          id_product: 14034
+       question_body: Dolorem ut sit enim est aperiam quos odio beatae.
+       question_date: 2019-05-02
+          asker_name: Brooke20
+         asker_email: Jeanie.Rice89@gmail.com
+     report_question: 0
+question_helpfulness: 2
+           id_answer: 172772
+         id_question: 49196
+         answer_body: Laudantium magnam odio sit aliquam.
+         answer_date: 2018-12-30
+       answerer_name: Ena.Paucek
+      answerer_email: Hillard_Hoppe@hotmail.com
+       report_answer: 0
+  answer_helpfulness: 8
+                  id: 51475
+           id_answer: 172772
+                 url: https://images.unsplash.com/photo-1449505278894-297fdb3edbc1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80
+*************************** 5. row ***************************
+                  id: 49196
+          id_product: 14034
+       question_body: Dolorem ut sit enim est aperiam quos odio beatae.
+       question_date: 2019-05-02
+          asker_name: Brooke20
+         asker_email: Jeanie.Rice89@gmail.com
+     report_question: 0
+question_helpfulness: 2
+           id_answer: 172773
+         id_question: 49196
+         answer_body: Occaecati quasi et est aut nihil corrupti veniam.
+         answer_date: 2019-01-01
+       answerer_name: Elvera58
+      answerer_email: Linnie_Littel@hotmail.com
+       report_answer: 1
+  answer_helpfulness: 8
+                  id: 51476
+           id_answer: 172773
+                 url: https://images.unsplash.com/photo-1492447105260-2e947425b5cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+*************************** 6. row ***************************
+                  id: 49196
+          id_product: 14034
+       question_body: Dolorem ut sit enim est aperiam quos odio beatae.
+       question_date: 2019-05-02
+          asker_name: Brooke20
+         asker_email: Jeanie.Rice89@gmail.com
+     report_question: 0
+question_helpfulness: 2
+           id_answer: 172774
+         id_question: 49196
+         answer_body: Quidem asperiores sequi quasi ducimus ducimus nam.
+         answer_date: 2019-03-14
+       answerer_name: Joanny65
+      answerer_email: Jordane.Stiedemann@hotmail.com
+       report_answer: 0
+  answer_helpfulness: 11
+                  id: 51477
+           id_answer: 172774
+                 url: https://images.unsplash.com/photo-1547597456-4c18a06d9073?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80
+*************************** 7. row ***************************
+                  id: 49197
+          id_product: 14034
+       question_body: Ut earum quasi ut nisi minima vel doloribus quis.
+       question_date: 2019-02-17
+          asker_name: Nellie_Kreiger
+         asker_email: Katharina.Hodkiewicz11@gmail.com
+     report_question: 0
+question_helpfulness: 6
+           id_answer: 172775
+         id_question: 49197
+         answer_body: Delectus explicabo et ut et consequatur minus dolor quibusdam non.
+         answer_date: 2018-11-04
+       answerer_name: Randy34
+      answerer_email: Sunny_Volkman@hotmail.com
+       report_answer: 0
+  answer_helpfulness: 4
+                  id: 51478
+           id_answer: 172775
+                 url: https://images.unsplash.com/photo-1558682596-dea9bf84c219?ixlib=rb-1.2.1&auto=format&fit=crop&w=2098&q=80
+*************************** 8. row ***************************
+                  id: 49197
+          id_product: 14034
+       question_body: Ut earum quasi ut nisi minima vel doloribus quis.
+       question_date: 2019-02-17
+          asker_name: Nellie_Kreiger
+         asker_email: Katharina.Hodkiewicz11@gmail.com
+     report_question: 0
+question_helpfulness: 6
+           id_answer: 172777
+         id_question: 49197
+         answer_body: Vitae quae totam culpa quisquam veritatis ea qui culpa neque.
+         answer_date: 2018-09-16
+       answerer_name: Howard82
+      answerer_email: Brooks.Klein@yahoo.com
+       report_answer: 0
+  answer_helpfulness: 11
+                  id: 51479
+           id_answer: 172777
+                 url: https://images.unsplash.com/photo-1553830591-2f39e38a013c?ixlib=rb-1.2.1&auto=format&fit=crop&w=2760&q=80
+*************************** 9. row ***************************
+                  id: 49198
+          id_product: 14034
+       question_body: Quia aut reprehenderit nulla non.
+       question_date: 2019-05-23
+          asker_name: Erica.Bergstrom
+         asker_email: Isaiah.Powlowski@yahoo.com
+     report_question: 0
+question_helpfulness: 29
+           id_answer: 172783
+         id_question: 49198
+         answer_body: Error itaque maxime vel natus harum repudiandae.
+         answer_date: 2019-01-15
+       answerer_name: Cathrine52
+      answerer_email: Seller
+       report_answer: 0
+  answer_helpfulness: 13
+                  id: 51480
+           id_answer: 172783
+                 url: https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+*************************** 10. row ***************************
+                  id: 49199
+          id_product: 14034
+       question_body: Vitae qui et tempore similique.
+       question_date: 2018-09-16
+          asker_name: Maverick_Upton
+         asker_email: Akeem11@gmail.com
+     report_question: 0
+question_helpfulness: 6
+           id_answer: 172787
+         id_question: 49199
+         answer_body: Exercitationem totam ipsum sit ut laudantium nostrum.
+         answer_date: 2019-07-09
+       answerer_name: Anais56
+      answerer_email: Kade_Koelpin@gmail.com
+       report_answer: 0
+  answer_helpfulness: 19
+                  id: 51481
+           id_answer: 172787
+                 url: https://images.unsplash.com/photo-1516684810863-e49c82f1f092?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=965&q=80
+
+
+      I: array of objects that look like above
+      O: photos nested in answers, and answers nested in questions
+      nest photos and nest answers
+
+      nest answers: check if the question id is the same
+          continue adding to the nest
+          otherwise
+          push that question object into my layout
+
+      nest photos: check if answer id is the same
+        add photos to answer nest
+        otherwise
+        push nested photos into answer nest
+
+
+      set current answer
+      loop through result array of objects
+        if current answer id is the same as current answer
+          add photo to list
+        otherwise
+          save current answer and move to next id
+
+      => output: current answer with an array of photos
+
+
+
+
+

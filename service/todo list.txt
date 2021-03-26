@@ -1,0 +1,20 @@
+scale the api
+  1. newRelic - install or stats+D grafana
+
+stress test
+  1. chooose a testing mechanism
+    - k6
+  2. test locally - 100 users
+  3. get rid of console.logs
+
+Nginx
+  1. scaling mysql is tough
+
+optimizations (nice to haves)
+
+tech debt
+  1. docker
+  2. if I dont do docker
+  3. cleaning duplicates on csv (good to know)
+  4. 
+
