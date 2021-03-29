@@ -1,5 +1,7 @@
 scale the api
   1. newRelic - install or stats+D grafana
+  2. loaderio + newRelic
+
 
 stress test
   1. chooose a testing mechanism
@@ -7,8 +9,10 @@ stress test
   2. test locally - 100 users
   3. get rid of console.logs
 
-Nginx
+Nginx (optimize)
   1. scaling mysql is tough
+loadbalancing
+caching
 
 optimizations (nice to haves)
 
@@ -16,5 +20,6 @@ tech debt
   1. docker
   2. if I dont do docker
   3. cleaning duplicates on csv (good to know)
-  4. 
+  4.
+
 

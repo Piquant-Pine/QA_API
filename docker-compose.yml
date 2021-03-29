@@ -1,0 +1,30 @@
+version: "3"
+
+services:
+  service:
+    build: service/
+    depends_on:
+      - "databaseSQL"
+    ports:
+      - "3000:3000"
+
+  databaseSQL:
+    image: mysql:8.0.23
+    restart: always
+    environment:
+      # MYSQL_ROOT_PASSWORD: password
+      # MYSQL_HOST: localhost
+      MYSQL_DATABASE: mydb
+      MYSQL_ALLOW_EMPTY_PASSWORD: "true"
+      # MYSQL_USER: mysql
+      # MYSQL_PASSWORD: password
+      # MYSQL_ROOT_PASSWORD: root
+    # ports:
+    # - '3306:3306'
+    # expose:
+    # - '3306'
+    volumes:
+      - db_data:/var/lib/mysql
+      # - ./database/csv:/tmp
+volumes:
+  db_data:
